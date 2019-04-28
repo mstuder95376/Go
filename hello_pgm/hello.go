@@ -13,6 +13,7 @@ func add(x, y int) int {
 }
 
 func main() {
+	// Just some silly code samples
 	fmt.Println("Hello there Programmer person")
 	fmt.Println("A random number is ", rand.Intn(100))
 	fmt.Println("Pi ", math.Pi)
@@ -20,4 +21,3 @@ func main() {
 	dd := 42
 	fmt.Println(aa, bb, cc, dd)
 }
-
