@@ -12,4 +12,5 @@ func main() {
 		log.Fatal(err)
 	}
 	fmt.Printf("The date is %s\n", out)
+
 }
